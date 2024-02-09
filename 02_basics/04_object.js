@@ -42,10 +42,46 @@ const users =[
 ]
 
 users[1].email
-console.log(tinderUser);
+// console.log(tinderUser);
 
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty(''));
+// console.log(tinderUser.hasOwnProperty(''));
+
+const course={
+    coursename:"react from Bignners",
+    price:"799",
+    courseInstructor:"Mukesh"
+}
+course.courseInstructor
+
+const {courseInstructor:instructor}=course
+
+//console.log(courseInstructor);
+//console.log(instructor);
+
+//destructure in reacts
+
+// const navbar=({company})=>{
+
+// }
+// navbar(company="Mueksh")
+
+
+//API in JSON format
+// {
+//     "name":"Mukesh",
+//     "coursename":"javaScript",
+//     "Price":"499"
+// }
+
+
+//API in array format
+[
+        {},
+        {},
+        {}
+    
+]
