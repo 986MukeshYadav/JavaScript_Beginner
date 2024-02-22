@@ -9,6 +9,7 @@ const ac=new Number(100)
 
 const otherNumber = 34.8966
 
+
 // console.log(otherNumber.toPrecision(4));
 const hunderds = 10000000
 // console.log(hunderds.toLocaleString('en-IN'));

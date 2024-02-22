@@ -6,6 +6,7 @@ const Lname="Yadav"
 //console.log(`First name is ${Fname} and Last name is ${Lname}`);
 
 const name1= new String('Kumar-yadav-mukesh')
+
 //console.log(name1[0]);
 //console.log(name1.__proto__);
 
