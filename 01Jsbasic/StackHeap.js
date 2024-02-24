@@ -4,7 +4,6 @@
 //Heap(Non-Preemative DataTypes)
 
 let myemail="mky@gmaail.com";
-
 let aneamil=myemail;
 aneamil="mukesh kumar yadav"
 
