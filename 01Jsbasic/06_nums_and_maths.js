@@ -14,6 +14,7 @@ const otherNumber = 34.8966
 const hunderds = 10000000
 // console.log(hunderds.toLocaleString('en-IN'));
 
+
 //+++++++++++++++ Maths ++++++++++++++++++++++++++++
 
 // console.log(Math);
