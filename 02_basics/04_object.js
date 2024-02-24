@@ -4,7 +4,6 @@ const tinderUser={}
 tinderUser.id ="123mukesh"
 tinderUser.name="Mukesh Yadav"
 tinderUser.isLoggedIn =false
-
 //console.log(tinderUser);
 
 const regularUser ={
